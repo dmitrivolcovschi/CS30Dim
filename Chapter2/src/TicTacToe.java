@@ -9,7 +9,6 @@ School: CHHS
 Course: Computer Science 20
  
  
- sdsdsd
 
 */
 
@@ -18,10 +17,34 @@ public class TicTacToe {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("hello");
+		System.out.println("        |       |");
+		 
+		System.out.println("        |       |");
 		
-		Player 'X', enter your move (row[1-3] column[1-3]): 2 2
-	
+		System.out.println("        |       |   ");
+		 
+		System.out.println("-------------------------");
+		
+		System.out.println("        |       |  ");
+		
+		System.out.println("        |   X   |   ");
+		
+		System.out.println("        |       |   ");
+		
+		System.out.println(" -------------------------");
+		
+		System.out.println("        |       |   ");
+		
+		System.out.println("        |       |   ");
+		
+		System.out.println("        |       |   ");
+		
+	}  
+
+}
+
+/* Screen Dump
+
 		   |       |
 	       |       |
 		   |       |   
@@ -33,12 +56,5 @@ public class TicTacToe {
 		   |       |   
            |       |
 		   |       |
-	}
-
-}
-
-/* Screen Dump
-
-Hello World!
  
  */
