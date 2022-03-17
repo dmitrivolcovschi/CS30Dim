@@ -29,6 +29,6 @@ public class RectanglePerimeter {
 
 The perimeter of a rectangle with a width of 4 and a length of 13 is 34.
 
-.
+..
 */
 
