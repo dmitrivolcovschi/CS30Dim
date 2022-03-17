@@ -40,7 +40,7 @@ public class Digits {
 }
 
 /* Screen Dump
- 
+ .
 Enter two digits: 
 23
 The tens place digit is: 2

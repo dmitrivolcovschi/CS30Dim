@@ -49,5 +49,5 @@ The hundreds place digit is: 2
 The tens place digit is: 5
 The ones place digit is: 6
 
- 
+ .
  */
